@@ -4,11 +4,11 @@ This project involved analyzing Zomato restaurant data using Excel, SQL, and Pow
 
 Objectives
 
-Data Preparation:
+📊 Data Preparation
 
-Created a country map table to facilitate geographical analysis.
+Country Map Table: Created a table to facilitate geographical analysis.
 
-Built a calendar table using the datekey column, adding details such as:
+Calendar Table: Built using the datekey column with details such as:
 
 Year, Month Number, and Full Month Name
 
@@ -22,7 +22,7 @@ Financial Month (April = FM1, May = FM2, ..., March = FM12)
 
 Financial Quarter (based on Financial Months)
 
-Data Analysis:
+🔍 Data Analysis
 
 Counted the number of restaurants by city and country.
 
@@ -34,7 +34,7 @@ Grouped restaurants into average price range buckets and analyzed their distribu
 
 Measured the percentage of restaurants offering table booking and online delivery options.
 
-Visualization:
+📈 Visualization
 
 Created dynamic dashboards to highlight:
 
@@ -48,7 +48,7 @@ Other key metrics
 
 Tools and Techniques
 
-Excel
+🟢 Excel
 
 Excel was essential for initial data analysis and preparation:
 
@@ -74,7 +74,7 @@ Interactive Reports:
 
 Linked slicers to multiple PivotTables for easy filtering.
 
-SQL
+🟢 SQL
 
 SQL was used to efficiently extract and process data:
 
@@ -94,7 +94,7 @@ Used window functions like ROW_NUMBER, RANK, and DENSE_RANK to rank and segment 
 
 Leveraged date functions (DATEADD, DATEDIFF, DATEPART) for time-based analysis.
 
-Power BI
+🟢 Power BI
 
 Power BI was the primary tool for creating interactive dashboards:
 
@@ -116,15 +116,15 @@ Added slicers and filters for dynamic exploration and drill-through features for
 
 Key Insights
 
-Geographical Trends: Identified the cities and countries with the most restaurants.
+🌍 Geographical Trends: Identified the cities and countries with the most restaurants.
 
-Opening Patterns: Discovered seasonal and time-based trends in restaurant openings.
+📅 Opening Patterns: Discovered seasonal and time-based trends in restaurant openings.
 
-Customer Preferences: Analyzed ratings and popular cuisines.
+⭐ Customer Preferences: Analyzed ratings and popular cuisines.
 
-Operational Insights: Calculated the share of restaurants offering table bookings and online delivery.
+📊 Operational Insights: Calculated the share of restaurants offering table bookings and online delivery.
 
-Price Ranges: Explored how restaurants are distributed across various price ranges.
+💰 Price Ranges: Explored how restaurants are distributed across various price ranges.
 
 Conclusion
 
